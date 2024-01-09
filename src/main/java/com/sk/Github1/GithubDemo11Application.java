@@ -14,5 +14,10 @@ public class GithubDemo11Application {
 	{
 		System.out.println("Welcome In GitHub");
 	}
+	
+	public void Happiness()
+	{
+		System.out.println("Welcome In hippiest group");
+	}
 
 }
