@@ -19,5 +19,10 @@ public class GithubDemo11Application {
 	{
 		System.out.println("Welcome In hippiest group");
 	}
+	
+	public void branchDemo()
+	{
+		System.out.println();
+	}
 
 }
